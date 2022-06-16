@@ -1,0 +1,32 @@
+{
+    "chain": [
+        {
+            "id": 0,
+            "timestamp": "date",
+            "data": "Product",
+            "previoushash": "0",
+            "hash": "1ecd58e69aa965743b565b01229fd85245d0d0d5b73118a00f9ec6b31f6bf92a"
+        },
+        {
+            "id": 1,
+            "timestamp": "15/03/2022",
+            "data": "amount: 4",
+            "previoushash": "1ecd58e69aa965743b565b01229fd85245d0d0d5b73118a00f9ec6b31f6bf92a",
+            "hash": "70bed0f53bdfb09fa8568cf4b13ab96c2459c7e115cf13781cba2aadbee91e72"
+        },
+        {
+            "id": 2,
+            "timestamp": "16/03/2022",
+            "data": "amount: 5",
+            "previoushash": "70bed0f53bdfb09fa8568cf4b13ab96c2459c7e115cf13781cba2aadbee91e72",
+            "hash": "e11f8d44eacb88d3cd786d93e6406c6dccd8520568e031f529faa0438c7ff433"
+        },
+        {
+            "id": 3,
+            "timestamp": "16/04/2022",
+            "data": "amount: 500",
+            "previoushash": "e11f8d44eacb88d3cd786d93e6406c6dccd8520568e031f529faa0438c7ff433",
+            "hash": "0f29802a896267526b175ca2b0e24d0492953f106f07f687f44780884d4ba637"
+        }
+    ]
+}
